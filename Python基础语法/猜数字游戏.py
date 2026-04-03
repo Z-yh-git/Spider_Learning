@@ -1,3 +1,10 @@
+'''
+@file:猜数字游戏.py
+@author:Vitas
+@version:1.0
+@intro:生成一个随机数，引导用户猜
+@notice:null
+'''
 #引入随机库
 import random
 

@@ -1,3 +1,16 @@
+'''
+@file:剪刀石头布游戏.py
+@author:Vitas
+@version:1.0
+@intro:实现和用户进行剪刀石头布的游戏
+@notice:null
+'''
+'''
+steps:
+1.创建列表，包含所有可能
+2.随机抽取，并且获得用户的输入
+3.比较，得出结果
+'''
 import random
 
 pool = ["剪刀","石头","布"]
